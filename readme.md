@@ -54,25 +54,25 @@
 
 ## Schedule
 
-| Week | Dates        | Topic                                                                           |
-| :--- | :----------- | :------------------------------------------------------------------------------ |
-| 0    | 9/22, 9/24   | Introductions                                                                   |
-| 1    | 9/29, 10/1   | [HTML Basics](./Content/Week%201%20-%20HTML%20Basics/readme.md)                 |
-| 2    | 10/6, 10/8   | [HTML Advanced](./Content/Week%2002%20-%20HTML%20Advanced/readme.md)            |
-| 3    | 10/13, 10/15 | [Javascript Basics](./Content/Week%203%20-%20Javascript%20Basics/readme.md)     |
-| 4    | 10/20, 10/22 | [Javascript Advanced](./Content/Week%204%20-%20Javascript%20Advanced/readme.md) |
-| 5    | 10/27, 10/29 | [React Basics](./Content/Week%205%20-%20React%20Basics/readme.md)               |
-| 6    | 11/3, 11/5   | [React Advanced](./Content/Week%206%20-%20React%20Advanced/readme.md)           |
-| 7    | 11/10, 11/12 | [Validation](./Content/Week%207%20-%20Validation/readme.md)                     |
-| 8    | 11/17, 11/19 | [API](./Content/Week%208%20-%20API/readme.md)                                   |
-| 9    | 12/1, 12/3   | [SQL](./Content/Week%209%20-%20SQL/readme.md)                                   |
-| 10   | 12/8, 12/10  | [Authentication](./Content/Week%2010%20-%20Authentication/readme.md)            |
-| 11   | 12/15, 12/17 | [Express Basics](./Content/Week%2011%20-%20Express%20Basics/readme.md)          |
-| 12   | 1/5, 1/7     | [Express Advanced](./Content/Week%2012%20-%20Express%20Advanced/readme.md)      |
-| 1    | 1/12, 1/14   | [Scrum](./Content/Week%201%20-%20Scrum/readme.md)                               |
-| 2    | 1/19, 1/21   | [Wireframes](./Content/Week%202%20-%20Wireframes/readme.md)                     |
-| 3    | 1/26, 1/28   | [Layout](./Content/Week%203%20-%20Layout/readme.md)                             |
-| 4    | 2/2, 2/4     | [Styling](./Content/Week%204%20-%20Styling/readme.md)                           |
-| 5    | 2/9, 2/11    | [API](./Content/Week%205%20-%20API/readme.md)                                   |
-| 6    | 2/16, 2/18   | [Authentication](./Content/Week%206%20-%20Authentication/readme.md)             |
-| 7    | 2/23, 2/25   | [Deployment](./Content/Week%207%20-%20Deployment/readme.md)                     |
+| Week | Dates        | Topic                                                                            |
+| :--- | :----------- | :------------------------------------------------------------------------------- |
+| 0    | 9/22, 9/24   | Introductions                                                                    |
+| 1    | 9/29, 10/1   | [HTML Basics](./Content/Week%2001%20-%20HTML%20Basics/readme.md)                 |
+| 2    | 10/6, 10/8   | [HTML Advanced](./Content/Week%2002%20-%20HTML%20Advanced/readme.md)             |
+| 3    | 10/13, 10/15 | [Javascript Basics](./Content/Week%2003%20-%20Javascript%20Basics/readme.md)     |
+| 4    | 10/20, 10/22 | [Javascript Advanced](./Content/Week%2004%20-%20Javascript%20Advanced/readme.md) |
+| 5    | 10/27, 10/29 | [React Basics](./Content/Week%2005%20-%20React%20Basics/readme.md)               |
+| 6    | 11/3, 11/5   | [React Advanced](./Content/Week%2006%20-%20React%20Advanced/readme.md)           |
+| 7    | 11/10, 11/12 | [Validation](./Content/Week%2007%20-%20Validation/readme.md)                     |
+| 8    | 11/17, 11/19 | [API](./Content/Week%2008%20-%20API/readme.md)                                   |
+| 9    | 12/1, 12/3   | [SQL](./Content/Week%2009%20-%20SQL/readme.md)                                   |
+| 10   | 12/8, 12/10  | [Authentication](./Content/Week%2010%20-%20Authentication/readme.md)             |
+| 11   | 12/15, 12/17 | [Express Basics](./Content/Week%2011%20-%20Express%20Basics/readme.md)           |
+| 12   | 1/5, 1/7     | [Express Advanced](./Content/Week%2012%20-%20Express%20Advanced/readme.md)       |
+| 1    | 1/12, 1/14   | [Scrum](./Content/Week%201%20-%20Scrum/readme.md)                                |
+| 2    | 1/19, 1/21   | [Wireframes](./Content/Week%202%20-%20Wireframes/readme.md)                      |
+| 3    | 1/26, 1/28   | [Layout](./Content/Week%203%20-%20Layout/readme.md)                              |
+| 4    | 2/2, 2/4     | [Styling](./Content/Week%204%20-%20Styling/readme.md)                            |
+| 5    | 2/9, 2/11    | [API](./Content/Week%205%20-%20API/readme.md)                                    |
+| 6    | 2/16, 2/18   | [Authentication](./Content/Week%206%20-%20Authentication/readme.md)              |
+| 7    | 2/23, 2/25   | [Deployment](./Content/Week%207%20-%20Deployment/readme.md)                      |
