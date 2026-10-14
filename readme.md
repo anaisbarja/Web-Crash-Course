@@ -58,7 +58,7 @@
 | :--- | :----------- | :------------------------------------------------------------------------------ |
 | 0    | 9/22, 9/24   | Introductions                                                                   |
 | 1    | 9/29, 10/1   | [HTML Basics](./Content/Week%201%20-%20HTML%20Basics/readme.md)                 |
-| 2    | 10/6, 10/8   | [HTML Advanced](./Content/Week%202%20-%20HTML%20Advanced/readme.md)             |
+| 2    | 10/6, 10/8   | [HTML Advanced](./Content/Week%2002%20-%20HTML%20Advanced/readme.md)            |
 | 3    | 10/13, 10/15 | [Javascript Basics](./Content/Week%203%20-%20Javascript%20Basics/readme.md)     |
 | 4    | 10/20, 10/22 | [Javascript Advanced](./Content/Week%204%20-%20Javascript%20Advanced/readme.md) |
 | 5    | 10/27, 10/29 | [React Basics](./Content/Week%205%20-%20React%20Basics/readme.md)               |
